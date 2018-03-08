@@ -4,5 +4,5 @@
 
 ## 新三板收评
 
-* [\[2018.03.07\]新三板收评：总成交2.76亿 连续2日无新增挂牌](xin-san-ban-shang-shi-tiao-jian/1.md)
+* [2018年3月7日](xin-san-ban-shou-ping/2018nian-3-yue-7-ri.md)
 
