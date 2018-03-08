@@ -1,6 +1,4 @@
 # Summary
 
-* [Introduction](README.md)
-* [First Chapter](chapter1.md)
-* [MO](index.html)
+* [原始股投资](README.md)
 
