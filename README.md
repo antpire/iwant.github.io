@@ -1,3 +1,4 @@
+<head>
 <META NAME="Title" CONTENT="Meta 标签生成器">
 <META NAME="Author" CONTENT="Json在线解析格式化工具 站长">
 <META NAME="Subject" CONTENT="Meta 标签生成器">
@@ -13,6 +14,6 @@
 <META NAME="Revisit-After" CONTENT="请在此输入标题，Meta 标签生成器 Days">
 <META NAME="Distribution" CONTENT="Global">
 <META NAME="Robots" CONTENT="No Follow">
-
+</head>
 原始股，也是发家致富的代名词。
 
