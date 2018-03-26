@@ -1,4 +1,6 @@
 <head>
+<meta charset="UTF-8">
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
 <META NAME="Title" CONTENT="Meta 标签生成器">
 <META NAME="Author" CONTENT="Json在线解析格式化工具 站长">
 <META NAME="Subject" CONTENT="Meta 标签生成器">
